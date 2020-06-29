@@ -1,6 +1,6 @@
 {
   "name": "react-typing-text",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A simple react component for typing text effect with basic properties",
   "author": "TheShubham99",
   "license": "MIT",
@@ -11,6 +11,21 @@
   "engines": {
     "node": ">=10"
   },
+  "keywords": [
+    "typing",
+    "typing effect",
+    "typing text",
+    "typing animation",
+    "simple typing text",
+    "simple typing text react",
+    "text animation",
+    "text animation react",
+    "react-typing-text",
+    "typing-animation",
+    "react text effect",
+    "cool typing effect",
+    "react"
+  ],
   "scripts": {
     "build": "microbundle-crl --no-compress --format modern,cjs",
     "start": "microbundle-crl watch --no-compress --format modern,cjs",
