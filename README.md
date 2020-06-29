@@ -15,12 +15,12 @@ npm install --save react-typing-text
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'react-typing-text'
+import TypeText from 'react-typing-text'
 import 'react-typing-text/dist/index.css'
 
 class Example extends Component {
   render() {
-    return <MyComponent />
+    return <TypeText text='Example Text 😄' />
   }
 }
 ```
