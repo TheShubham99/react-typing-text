@@ -29,6 +29,12 @@ class Example extends Component {
 }
 ```
 
+### Options -
+
+✔️ `speed`: `Number` Typing speed. (value: lower value types faster)
+✔️ `staticText`: `String`. Static Text which will be constant. (`$` in above demo)  
+✔️ `typingDelay`: `Number`.Time to wait before starting to type.
+
 ## License
 
 MIT © [TheShubham99](https://github.com/TheShubham99)
