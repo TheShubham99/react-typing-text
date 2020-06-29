@@ -4,6 +4,10 @@
 
 [![NPM](https://img.shields.io/npm/v/react-typing-text.svg)](https://www.npmjs.com/package/react-typing-text) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+## In Action
+
+![Screenshot 1](https://raw.githubusercontent.com/TheShubham99/react-typing-text/master/demo.gif)
+
 ## Install
 
 ```bash
