@@ -1,6 +1,6 @@
 # react-typing-text
 
-> A simple react component for typing text effect with basic properties
+> **A simple react package for typing text effect with basic properties**
 
 [![NPM](https://img.shields.io/npm/v/react-typing-text.svg)](https://www.npmjs.com/package/react-typing-text) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
